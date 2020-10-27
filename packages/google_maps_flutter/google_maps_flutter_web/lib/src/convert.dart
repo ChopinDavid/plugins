@@ -11,7 +11,7 @@ final _nullLatLngBounds = LatLngBounds(
 );
 
 // Defaults taken from the Google Maps Platform SDK documentation.
-final _defaultStrokeColor = Colors.black.value;
+final _defaultStrokeColor = Colors.pink.value;
 final _defaultFillColor = Colors.transparent.value;
 final _defaultCssColor = '#000000';
 final _defaultCssOpacity = 0.0;

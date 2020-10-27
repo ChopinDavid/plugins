@@ -43,10 +43,10 @@ class Polygon {
   const Polygon({
     @required this.polygonId,
     this.consumeTapEvents = false,
-    this.fillColor = Colors.black,
+    this.fillColor = Colors.pink,
     this.geodesic = false,
     this.points = const <LatLng>[],
-    this.strokeColor = Colors.black,
+    this.strokeColor = Colors.pink,
     this.strokeWidth = 10,
     this.visible = true,
     this.zIndex = 0,

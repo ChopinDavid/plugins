@@ -45,7 +45,7 @@ class Polyline {
   const Polyline({
     @required this.polylineId,
     this.consumeTapEvents = false,
-    this.color = Colors.black,
+    this.color = Colors.pink,
     this.endCap = Cap.buttCap,
     this.geodesic = false,
     this.jointType = JointType.mitered,

@@ -46,7 +46,7 @@ class Circle {
     this.fillColor = Colors.transparent,
     this.center = const LatLng(0.0, 0.0),
     this.radius = 0,
-    this.strokeColor = Colors.black,
+    this.strokeColor = Colors.pink,
     this.strokeWidth = 10,
     this.visible = true,
     this.zIndex = 0,
